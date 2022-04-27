@@ -16,14 +16,14 @@
 
       该网络扫描器主要实现了主机扫描，端口和服务扫描，操作系统探测等相关功能。
 
-![image-20220423215345126](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220423215345126.png)
+![image](https://github.com/czffzc/network-scanner/blob/master/image/image-20220423215345126.png)
 
 ## 二.按钮及输入说明
 
       界面最上方有三个下拉列表分别是文件，运行，帮助。
       点击文件可以退出，点击运行可以运行，点击帮助显示该程序编写人员信息。
 
-![image-20220423215527275](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220423215527275.png)
+![image](https://github.com/czffzc/network-scanner/blob/master/image/image-20220423215527275.png)
 
 
 
@@ -31,13 +31,11 @@
     之后是一块输入的框，其中在配置中有三个选择，主机+操作系统，仅主机扫描，端口服务扫描。
     第一行的输入框是对于主机+操作系统和仅主机扫描两种选择设立的，第二行的输入框是对于端口服务扫描设置的。
 
-![image-20220423215605188](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220423215605188.png)
-
-
+![image](https://github.com/czffzc/network-scanner/blob/master/image/image-20220423215605188.png)
 
       输入对应的信息并选择配置后，点击scan按钮或者上方的运行按钮，即可运行。
 
-![image-20220423215741331](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220423215741331.png)
+![image](https://github.com/czffzc/network-scanner/blob/master/image/image-20220423215741331.png)
 
 
 
