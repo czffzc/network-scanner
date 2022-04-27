@@ -46,14 +46,14 @@
       在上方第一行的输入框输入主机扫描起始ip和主机扫描结束ip后，选择配置为主机+操作系统或者仅主机扫描，点击运行或者scan按钮，得到的主机列表及其操作系统(选择配置为仅主机扫描时不会显示)会在该界面上显示。
 
 
-![image-20220423221044442](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220423221044442.png)
+![image](https://github.com/czffzc/network-scanner/blob/master/image/image-20220423221044442.png)
 
 
 
 #### 2.本机明细界面
 
       该界面主要实现显示运行该程序的本机相关信息，在打开该程序时就会显示，无需相关的输入操作。
-![image-20220423220428778](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220423220428778.png)
+![image](https://github.com/czffzc/network-scanner/blob/master/image/image-20220423220428778.png)
 
 
 
@@ -62,7 +62,7 @@
       该界面主要实现指定主机的端口及其服务扫描。
       在上方第二行的输入框中输入端口扫描的主机ip，及起始端口和结束端口，选择配置为端口服务扫描后，点击运行或者scan按钮，在该界面上会显示该主机在指定的端口范围内开放的端口及对应的服务信息。
 
-![image-20220423220751344](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220423220751344.png)
+![image](https://github.com/czffzc/network-scanner/blob/master/image/image-20220423220751344.png)
 
 ## 四、其他说明
 
@@ -79,7 +79,7 @@
 
 #### 提交文件说明
 
-​	![image-20220423222558083](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20220423222558083.png)
+​	![image](https://github.com/czffzc/network-scanner/blob/master/image/image-20220423222558083.png)
 
 1. exe中为可执行文件
 2. setup中为程序安装包
